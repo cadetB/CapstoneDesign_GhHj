@@ -1,13 +1,29 @@
 0. ToDo
-- 호재 local to groom + github 
+- 호재 local to groom + github
 
-
+[V]K_view_records: 점수 입력칸 삭제(코드 수정 필요)
+[ ]servername, username, dbname 확인(코드 수정 필요)
+[ ]기입 정보 db 연동 유무 확인
+[ ]기입 정보 엑셀 파일 저장 기능 추가(코드 수정 필요)
 
 
 ##### 설정
 유저이메일: mung7120000@gmail.com
 유저 액세스 토큰: bak!12040620
-유저 이름: 백근호 
+유저 이름: 백근호
+db 비번 toor
+mongod -> mongodb 서버 실행
+ 첫번째 터미널에 "mongod"를 입력하여 mongodb 서버를 실행한다!
+
+3. 새 창 터미널에 "mongo"를 입력하면 mongo shell을 이용할 수 있습니다.
+
+★새 터미널 열기 단축키: alt+shift+T(mac: ​⌥⇧T)
+
+
+php -S 0.0.0.0:8000 K_register.php
+http://0.0.0.0:80
+
+
 
 ## Total
 - 총점 자동 계산 
